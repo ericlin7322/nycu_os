@@ -1,1 +1,0 @@
-cmd_/home/lineric/Developer/nycu_os/hw3/kfetch_mod_312551169.mod := printf '%s\n'   kfetch_mod_312551169.o | awk '!x[$$0]++ { print("/home/lineric/Developer/nycu_os/hw3/"$$0) }' > /home/lineric/Developer/nycu_os/hw3/kfetch_mod_312551169.mod
