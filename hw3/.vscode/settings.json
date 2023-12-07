@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "random": "c",
+        "bitset": "c",
+        "chrono": "c",
+        "algorithm": "c",
+        "__bit_reference": "c",
+        "map": "c",
+        "set": "c",
+        "unordered_map": "c",
+        "errno.h": "c"
+    }
+}

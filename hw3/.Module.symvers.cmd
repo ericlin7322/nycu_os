@@ -1,0 +1,1 @@
+cmd_/home/lineric/Developer/nycu_os/hw3/Module.symvers :=  scripts/mod/modpost -m -a     -o /home/lineric/Developer/nycu_os/hw3/Module.symvers -T /home/lineric/Developer/nycu_os/hw3/modules.order -i Module.symvers -e 
